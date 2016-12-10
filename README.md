@@ -29,11 +29,11 @@ s.login().then(() => {
 `Student#login, Student#logout, Student#getTimetable, Student#getTimeChanges, Student#getEvents, Student#getMessages, Student#getInbox, Student#searchInbox, Student#getMessage`
 
 ##Feature list
- [x] Login and logout
- [x] Timetable
- [x] Timetable changes and events
- [x] Get messages from inbox
- [x] Get message by ID
- [ ] Search inbox
- [ ] Get grades
- [ ] Send messages
+ - [x] Login and logout
+ - [x] Timetable
+ - [x] Timetable changes and events
+ - [x] Get messages from inbox
+ - [x] Get message by ID
+ - [ ] Search inbox
+ - [ ] Get grades
+ - [ ] Send messages
